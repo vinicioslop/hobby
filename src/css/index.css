@@ -1,0 +1,51 @@
+.container-titulo {
+    font-weight: bold;
+}
+
+.titulo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.linha-pos-titulo {
+    margin-top: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.conteiner-conteudo {
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.conteudo {
+    margin-bottom: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.conteudo h2 {
+    margin-bottom: 5px;
+}
+
+.conteudo p {
+    margin-bottom: 5px;
+
+    text-align: justify;
+}
+
+.conteudo a {
+    text-decoration: none;
+}
+
+.conteudo a:hover {
+    color: purple;
+}
+
+.lista-desordenada .item {
+    list-style: disc;
+    margin-left: 2%;
+}
